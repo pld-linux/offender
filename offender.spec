@@ -1,5 +1,5 @@
-Summary:	A 2d space shooter
-Summary(pl):	Kosmiczna strzelanka w 2d
+Summary:	A 2D space shooter
+Summary(pl):	Kosmiczna strzelanka w 2D
 Name:		offender
 Version:	0.2
 Release:	1
@@ -15,11 +15,11 @@ BuildRequires:	gtk+-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Offender is a 2d space shooter a bit like galaga. In it you're one
+Offender is a 2D space shooter a bit like galaga. In it you're one
 ship against hundreds of aliens fighting to the death
 
 %description -l pl
-Offender jest to strzelanka w 2d podobna do galagi. Gracz kieruj±c
+Offender jest to strzelanka w 2D podobna do galagi. Gracz kieruj±c
 jednym statkiem przeciwko setkom obcych walczy na ¶mieræ i ¿ycie.
 
 %prep
