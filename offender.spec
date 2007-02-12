@@ -1,5 +1,5 @@
 Summary:	A 2D space shooter
-Summary(pl.UTF-8):   Kosmiczna strzelanka w 2D
+Summary(pl.UTF-8):	Kosmiczna strzelanka w 2D
 Name:		offender
 Version:	0.2
 Release:	1
